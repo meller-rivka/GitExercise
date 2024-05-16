@@ -1,0 +1,19 @@
+body {
+  background-color: pink !important;
+  color: black !important;
+}
+input {
+  background-color: rgb(194, 10, 148) !important;
+  color: white !important;
+  width: 100px !important;
+    height: 50px !important;
+    border-radius: 50%;
+}
+input:hover {
+  background-color: rgb(194, 10, 148) !important;
+  color: white !important;
+  width: 200px !important;
+    height: 100px !important;
+    border-radius: 50%;
+    animation: 2s ease-in-out 0s infinite alternate none running mymove;
+}
