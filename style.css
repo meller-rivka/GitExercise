@@ -9,7 +9,6 @@ button {
     height: 50px !important;
     border-radius: 50%;
 }
-#create me nice animation in over on the button when hover
 button:hover {
   background-color: rgb(194, 10, 148) !important;
   color: white !important;
